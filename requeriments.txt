@@ -1,0 +1,5 @@
+# Este projeto usa apenas bibliotecas nativas do Python.
+# tkinter
+# os
+# shutil
+# subprocess
